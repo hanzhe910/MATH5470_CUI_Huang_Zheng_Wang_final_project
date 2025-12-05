@@ -16,5 +16,5 @@ We provide Jupyter Notebooks of the downscaling model code, in the downscaling_m
 
 We have open-sourced all the data required for training and testing deep learning models, which can be downloaded through the following link.
 
-
+https://pan.baidu.com/s/16lNVA6kMjlq2nECq3oM4rg?pwd=tktp
 
