@@ -1,5 +1,5 @@
 # HKUST MATH5470 final project
-**Benchmarking Machine learning Super-Resolution Models for Climate Downscaling**
+## Benchmarking Machine learning Super-Resolution Models for Climate Downscaling
 
 ## Overview
 
