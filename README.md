@@ -9,10 +9,12 @@
 
 ## Jupyter Notebooks
 
-We provide two Jupyter Notebooks of the downscaling code
+We provide Jupyter Notebooks of the downscaling model code, in the downscaling_model_code_jupyter.zip
 
 
 ## Dataset
 
-We open source our dataset to the MATH5470 class, which is the dataset.zip, including all of our data for training deep learning model
+We have open-sourced all the data required for training and testing deep learning models, which can be downloaded through the following link.
+
+
 
